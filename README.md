@@ -1,2 +1,0 @@
-# Calculator
-Perform mathematical calculactions
